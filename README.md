@@ -1,5 +1,5 @@
 # Similarity-score-between-two-table-files
-Using SpaCy
+Using SpaCy, BERT, levenshtein distance, jaro winkler distance
 
 
 The file contain 2 lists of texts. The first contains 6 items (P1-P6) and the second contains 131 text lines (C1-C131).
